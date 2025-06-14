@@ -5,10 +5,10 @@
 html, body {
   margin: 0;
   padding: 0;
-  height: 100%;
+  height: 100vh;
+  overflow: hidden; /* removes both scrollbars */
   background: #000;
   font-family: Arial, sans-serif;
-  overflow: hidden; /* prevent scrollbars */
 }
 
 body {
@@ -23,7 +23,10 @@ body {
   border-radius: 20px;
   width: 100%;
   max-width: 320px;
-  box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+  max-height: 100vh; /* prevent vertical overflow */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 .display {
