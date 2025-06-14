@@ -29,8 +29,4 @@ A mobile-friendly, stylish calculator built using **HTML**, **CSS**, and **JavaS
 
 👉 [Click here to try it out](https://aanshulll.github.io/CodeAlpha_Task-2/)
 
-## 🚀 How to Run Locally
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/responsive-calculator.git
