@@ -1,8 +1,6 @@
 # 🔢 Responsive Calculator App
 
 A mobile-friendly, stylish calculator built using **HTML**, **CSS**, and **JavaScript**.  
-This project was created as part of my internship to demonstrate responsive web design and JavaScript-based functionality.
-
 ---
 
 ## 📱 Features
@@ -27,6 +25,9 @@ This project was created as part of my internship to demonstrate responsive web 
 - Vanilla JavaScript (ES6)
 
 ---
+## 🚀 Live Demo
+
+👉 [Click here to try it out](https://aanshulll.github.io/CodeAlpha_Task-2/)
 
 ## 🚀 How to Run Locally
 
