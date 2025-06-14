@@ -5,7 +5,7 @@
 html, body {
   margin: 0;
   padding: 0;
-  height: 100vh;
+  height: 90vh;
   overflow: hidden; /* removes both scrollbars */
   background: #000;
   font-family: Arial, sans-serif;
